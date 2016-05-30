@@ -7,7 +7,7 @@
         xmlns:local="clr-namespace:WpfApplication2"
         mc:Ignorable="d"
         
-        Title="Window1" Height="465" Width="620">
+        Title="绘制图形" Height="465" Width="620">
     <Grid>
         <Button x:Name="btn" Height="30" Margin="526,402,24,25" Content="刷新"/>
         <Image x:Name="image" HorizontalAlignment="Left" Height="376" Margin="10,10,0,0" VerticalAlignment="Top" Width="588" MouseLeftButtonDown="image_MouseLeftButtonDown" MouseLeftButtonUp="image_MouseLeftButtonUp"/>
