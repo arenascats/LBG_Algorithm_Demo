@@ -61,6 +61,11 @@ namespace WpfApplication2
                                                            Convert.ToDouble(UpPosition.Y)));
             tbWeight.Text = Dis.ToString();
         }
+        protected override void OnClosing(System.ComponentModel.CancelEventArgs e)
+        {
+            this.Hide();
+            e.Cancel = true;
+        }
         private double TwoPointWeight(double x1, double y1, double x2, double y2)//求两点之间的距离
         {
             double Weight = 0;
