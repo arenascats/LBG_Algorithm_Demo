@@ -1,0 +1,30 @@
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ZX\Documents\Visual Studio 2015\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\Window1.g.cs
+F:\TDDOWNLOAD\WpfApplication2\WpfApplication2\obj\Debug\Window1.baml
